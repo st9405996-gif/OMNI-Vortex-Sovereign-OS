@@ -1,2 +1,11 @@
 # OMNI-Vortex-Sovereign-OS
-Sovereign Mesh OS | Ghost Protocol v5.0 | 18-Session Decentralized Economy | Standard 10% Infrastructure Service Fee | Architected by Syed Mohammed Adyan" [cite: 2025-12-24, 2025-12-31]
+### Powered by Ghost Protocol v5.0
+
+Sovereign Mesh OS designed for an 18-session decentralized economy. This project aims to build a community-owned infrastructure with a standard 10% service fee, bypassing traditional ISP dependencies.
+
+## Technical Architecture
+- **Language:** Rust (Core Protocol)
+- **Networking:** P2P Mesh Networking via libp2p
+- **Vision:** Decentralized connectivity for Karachi and beyond.
+
+*Currently migrating core routing logic from Python prototypes to production-grade Rust.*
